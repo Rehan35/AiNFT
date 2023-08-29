@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Generated Image",
+      "value" : "Cars"
+    }, {
+      "trait_type" : "Number of cars",
+      "value" : "4"
+    } ],
+    "description" : "Cool Cars driving around a Race Track",
+    "image" : "https://gateway.pinata.cloud/ipfs/Qme5niyKJea2QPqvP31DyGBiDAu7eNTxWkWY2gdDZg7QJ6",
+    "name" : "Cars Around a Track"
+}
