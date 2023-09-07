@@ -3,7 +3,7 @@ After using midjourney API to generate an image, I use Pinata as my IPFS service
 
 # How to run
 py main.py (This will generate the url link for the midjourney image with the prompt you used to generate.)\
-py view-image.py (Paste the url link into the view-image.py variable which takes the link and this script will display the image based on the url)\\
+py view-image.py (Paste the url link into the view-image.py variable which takes the link and this script will display the image based on the url)\
 
 From here, you will have to use Pinata, or another ipfs service to store your image on a node in the blockchain.\
 Once you do so, you can run the script to mint an nft.\\
